@@ -12,5 +12,11 @@
 	},
 	"observability": {
 		"enabled": true
-	}
+	},
+	"r2_buckets": [
+		{
+			"binding": "DOWNLOAD",
+			"bucket_name": "bluearchive-cafe-download"
+		}
+	]
 }
