@@ -1,13 +1,22 @@
 export default {
-  async fetch(request, env, ctx) {
-    const pathname = new URL(request.url).pathname;
-    const filename = pathname.split("/").pop();
+    async fetch(request, env) {
+        const upstream = new URL(request.url);
+        upstream.hostname = "launcher-pkg-ba-jp.yo-star.com";
 
-    if (filename === "resources.assets") {
-      const object = await env.DOWNLOAD.get(filename);
-      if (object) return new Response(object.body);
+        let response = await env.ASSETS.fetch(`${request.url}.00`);
+        if (!response.ok) return Response.redirect(upstream, 302);
+
+        const { readable, writable } = new TransformStream();
+        (async () => {
+            try {
+                for (let i = 1; response.ok; i++) {
+                    await response.body.pipeTo(writable, { preventClose: true });
+                    response = await env.ASSETS.fetch(`${request.url}.${String(i).padStart(2, '0')}`);
+                }
+                await writable.close();
+            } catch (e) { await writable.abort(e); }
+        })();
+
+        return new Response(readable);
     }
-
-    return Response.redirect(`https://launcher-pkg-ba-jp.yo-star.com${pathname}`,302);
-  },
 };
