@@ -1,0 +1,785 @@
+{
+  "source": "/BlueArchive_JP-1.66.405117-game",
+  "file": [
+    {
+      "path": "/BlueArchive.exe",
+      "hash": "9726941802540548572",
+      "size": "653824"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/API-MS-Win-core-file-l2-1-0.dll",
+      "hash": "5943362273480959350",
+      "size": "11792"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/DiskUtilsWinAPI.dll",
+      "hash": "18010741225543659094",
+      "size": "14336"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/NetworkDiagnosis.dll",
+      "hash": "16436646972884102607",
+      "size": "296448"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VorbisPlugin.dll",
+      "hash": "6187112640547595123",
+      "size": "757248"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/Vuplex WebView.vuplex",
+      "hash": "17774143290294126533",
+      "size": "1733632"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/chrome_100_percent.pak",
+      "hash": "10740874639630666462",
+      "size": "775954"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/chrome_200_percent.pak",
+      "hash": "4329620326574890365",
+      "size": "1306362"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/chrome_elf.dll",
+      "hash": "11649206389357713603",
+      "size": "1774080"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/d3dcompiler_47.dll",
+      "hash": "12495393857434978437",
+      "size": "4691520"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/dxcompiler.dll",
+      "hash": "4099636601891484225",
+      "size": "25836032"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/dxil.dll",
+      "hash": "8714443814206266879",
+      "size": "1502800"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/icudtl.dat",
+      "hash": "14805434299904940593",
+      "size": "10467680"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/libEGL.dll",
+      "hash": "1738130700488570167",
+      "size": "501760"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/libGLESv2.dll",
+      "hash": "15989233969247842895",
+      "size": "7871488"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/libcef.dll",
+      "hash": "16886272516336628149",
+      "size": "237987328"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/af.pak",
+      "hash": "16245890391135981999",
+      "size": "601633"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/am.pak",
+      "hash": "13103336192948093223",
+      "size": "967574"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ar.pak",
+      "hash": "10840926256942641038",
+      "size": "1068548"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/bg.pak",
+      "hash": "11177573881793197653",
+      "size": "1102034"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/bn.pak",
+      "hash": "18174785664716931307",
+      "size": "1417418"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ca.pak",
+      "hash": "4494249206321188066",
+      "size": "682605"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/cs.pak",
+      "hash": "15995443072275118981",
+      "size": "693863"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/da.pak",
+      "hash": "593366075510178997",
+      "size": "633468"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/de.pak",
+      "hash": "5953531152147193782",
+      "size": "682120"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/el.pak",
+      "hash": "10076169819479942734",
+      "size": "1208620"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/en-GB.pak",
+      "hash": "9951091642481040212",
+      "size": "548377"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/en-US.pak",
+      "hash": "15366872650688736361",
+      "size": "554056"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/es-419.pak",
+      "hash": "14861693149657063142",
+      "size": "667646"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/es.pak",
+      "hash": "9243348827749146180",
+      "size": "664459"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/et.pak",
+      "hash": "16564307002340513533",
+      "size": "607800"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/fa.pak",
+      "hash": "12995704848933869755",
+      "size": "987875"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/fi.pak",
+      "hash": "14787249479446605664",
+      "size": "617590"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/fil.pak",
+      "hash": "3906727888833547119",
+      "size": "698455"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/fr.pak",
+      "hash": "1711615610923004664",
+      "size": "720221"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/gu.pak",
+      "hash": "12936478332874172428",
+      "size": "1405647"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/he.pak",
+      "hash": "5205207447233581207",
+      "size": "871206"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/hi.pak",
+      "hash": "75665398191966608",
+      "size": "1498596"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/hr.pak",
+      "hash": "3811007259329242724",
+      "size": "672685"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/hu.pak",
+      "hash": "13630236010195973251",
+      "size": "722139"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/id.pak",
+      "hash": "667231533101668267",
+      "size": "598737"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/it.pak",
+      "hash": "12642583017764603952",
+      "size": "661935"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ja.pak",
+      "hash": "15006105108302381032",
+      "size": "799591"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/kn.pak",
+      "hash": "18386586500234449215",
+      "size": "1593465"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ko.pak",
+      "hash": "11831481693745143375",
+      "size": "676839"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/lt.pak",
+      "hash": "7889326928194583010",
+      "size": "727077"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/lv.pak",
+      "hash": "13605778145326580348",
+      "size": "726355"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ml.pak",
+      "hash": "767451975748181760",
+      "size": "1655630"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/mr.pak",
+      "hash": "10844777174435656155",
+      "size": "1372156"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ms.pak",
+      "hash": "9075901340636081932",
+      "size": "627946"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/nb.pak",
+      "hash": "5872005105836022708",
+      "size": "606172"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/nl.pak",
+      "hash": "5074013565504830810",
+      "size": "628909"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/pl.pak",
+      "hash": "1310958815107974161",
+      "size": "698161"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/pt-BR.pak",
+      "hash": "15149244724292795876",
+      "size": "655270"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/pt-PT.pak",
+      "hash": "7790189472744701348",
+      "size": "660316"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ro.pak",
+      "hash": "8151953890799100348",
+      "size": "683840"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ru.pak",
+      "hash": "7767533894980574275",
+      "size": "1119153"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/sk.pak",
+      "hash": "15732728649908855892",
+      "size": "706471"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/sl.pak",
+      "hash": "16184671559504135986",
+      "size": "678220"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/sr.pak",
+      "hash": "14252968795817164799",
+      "size": "1038645"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/sv.pak",
+      "hash": "14286695559351357546",
+      "size": "611007"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/sw.pak",
+      "hash": "5301982666631695660",
+      "size": "644008"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ta.pak",
+      "hash": "841352029111050839",
+      "size": "1649763"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/te.pak",
+      "hash": "10195928462699581462",
+      "size": "1521000"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/th.pak",
+      "hash": "6074388824121508336",
+      "size": "1280532"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/tr.pak",
+      "hash": "85473198037440622",
+      "size": "655570"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/uk.pak",
+      "hash": "8637594416269027277",
+      "size": "1122224"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ur.pak",
+      "hash": "10886782151683974067",
+      "size": "979183"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/vi.pak",
+      "hash": "16747263917506305797",
+      "size": "778762"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/zh-CN.pak",
+      "hash": "6702050002439820953",
+      "size": "560298"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/locales/zh-TW.pak",
+      "hash": "7120911031676138016",
+      "size": "555931"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/resources.pak",
+      "hash": "10661990573893672117",
+      "size": "11538574"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/v8_context_snapshot.bin",
+      "hash": "5200208996949266403",
+      "size": "714429"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/vk_swiftshader.dll",
+      "hash": "11394780003914554975",
+      "size": "5428736"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/vk_swiftshader_icd.json",
+      "hash": "4736316296342268970",
+      "size": "106"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewChromium/vulkan-1.dll",
+      "hash": "9869600239978883739",
+      "size": "901120"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/VuplexWebViewWindows.dll",
+      "hash": "16485062982165690519",
+      "size": "398336"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/alinetworkdiagnosisMT.dll",
+      "hash": "2336803212037259663",
+      "size": "6179840"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/aliyun-log-c-wrapper.dll",
+      "hash": "2892778889913711590",
+      "size": "49664"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/api-ms-win-core-file-l1-2-0.dll",
+      "hash": "1704026422384112683",
+      "size": "11576"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/api-ms-win-core-localization-l1-2-0.dll",
+      "hash": "11420930929853150336",
+      "size": "14136"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/api-ms-win-core-processthreads-l1-1-1.dll",
+      "hash": "3335863416911069737",
+      "size": "12304"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/api-ms-win-core-string-l1-1-0.dll",
+      "hash": "3976857712625997208",
+      "size": "11576"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/api-ms-win-core-synch-l1-2-0.dll",
+      "hash": "10920587512982885345",
+      "size": "12088"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/api-ms-win-core-timezone-l1-1-0.dll",
+      "hash": "5955066911934140543",
+      "size": "12088"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/api-ms-win-crt-convert-l1-1-0.dll",
+      "hash": "17198086403740043853",
+      "size": "15672"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/api-ms-win-crt-environment-l1-1-0.dll",
+      "hash": "18017666623803587596",
+      "size": "12088"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/api-ms-win-crt-filesystem-l1-1-0.dll",
+      "hash": "7095730165503908347",
+      "size": "13840"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/api-ms-win-crt-heap-l1-1-0.dll",
+      "hash": "4875234574216944883",
+      "size": "12600"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/api-ms-win-crt-locale-l1-1-0.dll",
+      "hash": "353098075653015323",
+      "size": "12088"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/api-ms-win-crt-math-l1-1-0.dll",
+      "hash": "14812396764577802749",
+      "size": "21008"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/api-ms-win-crt-runtime-l1-1-0.dll",
+      "hash": "12888036099656143061",
+      "size": "16400"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/api-ms-win-crt-stdio-l1-1-0.dll",
+      "hash": "9823226802478059357",
+      "size": "17960"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/api-ms-win-crt-string-l1-1-0.dll",
+      "hash": "11677692585261433352",
+      "size": "18472"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/api-ms-win-crt-time-l1-1-0.dll",
+      "hash": "7351083704832533716",
+      "size": "14136"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/api-ms-win-crt-utility-l1-1-0.dll",
+      "hash": "2226078578900112356",
+      "size": "12296"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/lib_burst_generated.dll",
+      "hash": "15857958716960452152",
+      "size": "303104"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/libcrypto-3-x64.dll",
+      "hash": "15623587058521554221",
+      "size": "6077952"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/libcurl.dll",
+      "hash": "16862697344468068689",
+      "size": "528896"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/libssl-3-x64.dll",
+      "hash": "3555484415563170437",
+      "size": "778240"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/msvcp140.dll",
+      "hash": "6609515012789314241",
+      "size": "579920"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/msvcp140_codecvt_ids.dll",
+      "hash": "5132017953796304122",
+      "size": "31600"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/sqlcipher.dll",
+      "hash": "8522420185435675641",
+      "size": "7981568"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/steam_api64.dll",
+      "hash": "1292915459892122516",
+      "size": "300392"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/ucrtbase.dll",
+      "hash": "6724322674005539108",
+      "size": "1044880"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/vcruntime140.dll",
+      "hash": "11958243970086603747",
+      "size": "109392"
+    },
+    {
+      "path": "/BlueArchive_Data/Plugins/x86_64/vcruntime140_1.dll",
+      "hash": "11787413930915184890",
+      "size": "49520"
+    },
+    {
+      "path": "/BlueArchive_Data/Resources/unity default resources",
+      "hash": "17102155503043041638",
+      "size": "4832808"
+    },
+    {
+      "path": "/BlueArchive_Data/Resources/unity_builtin_extra",
+      "hash": "9800570351238331962",
+      "size": "321880"
+    },
+    {
+      "path": "/BlueArchive_Data/RuntimeInitializeOnLoads.json",
+      "hash": "4074962411024213157",
+      "size": "4289"
+    },
+    {
+      "path": "/BlueArchive_Data/ScriptingAssemblies.json",
+      "hash": "17505941391342362192",
+      "size": "4697"
+    },
+    {
+      "path": "/BlueArchive_Data/StreamingAssets/Video/title.mp4",
+      "hash": "7172409208627473401",
+      "size": "27753480"
+    },
+    {
+      "path": "/BlueArchive_Data/StreamingAssets/Video/title_2nd_1.mp4",
+      "hash": "12041672220468896428",
+      "size": "27569328"
+    },
+    {
+      "path": "/BlueArchive_Data/StreamingAssets/Video/title_3rd_1.mp4",
+      "hash": "8966350953982696688",
+      "size": "28244010"
+    },
+    {
+      "path": "/BlueArchive_Data/StreamingAssets/Video/title_4nd_1.mp4",
+      "hash": "11302468839530030156",
+      "size": "4566327"
+    },
+    {
+      "path": "/BlueArchive_Data/StreamingAssets/Video/title_4nd_2.mp4",
+      "hash": "15738418317271419051",
+      "size": "28540370"
+    },
+    {
+      "path": "/BlueArchive_Data/StreamingAssets/Video/title_4nd_Ep.mp4",
+      "hash": "1485193558224026003",
+      "size": "30635641"
+    },
+    {
+      "path": "/BlueArchive_Data/StreamingAssets/Video/title_5th_1.mp4",
+      "hash": "8857756945651935640",
+      "size": "28522590"
+    },
+    {
+      "path": "/BlueArchive_Data/StreamingAssets/Video/title_6th_1.mp4",
+      "hash": "10945599052696808282",
+      "size": "29943932"
+    },
+    {
+      "path": "/BlueArchive_Data/StreamingAssets/Xigncode/x3.xem",
+      "hash": "9357698561718204738",
+      "size": "4132376"
+    },
+    {
+      "path": "/BlueArchive_Data/StreamingAssets/Xigncode/x3_x64.xem",
+      "hash": "4532437596954924796",
+      "size": "6865552"
+    },
+    {
+      "path": "/BlueArchive_Data/StreamingAssets/Xigncode/xcorona.xem",
+      "hash": "16130916985948331378",
+      "size": "6963024"
+    },
+    {
+      "path": "/BlueArchive_Data/StreamingAssets/Xigncode/xcorona_arm64.xem",
+      "hash": "4703174412238954869",
+      "size": "12912936"
+    },
+    {
+      "path": "/BlueArchive_Data/StreamingAssets/Xigncode/xcorona_x64.xem",
+      "hash": "13654536504900717391",
+      "size": "7426904"
+    },
+    {
+      "path": "/BlueArchive_Data/StreamingAssets/Xigncode/xnina.xem",
+      "hash": "5449378097956906387",
+      "size": "1916928"
+    },
+    {
+      "path": "/BlueArchive_Data/StreamingAssets/Xigncode/xnina_x64.xem",
+      "hash": "17540746648147521289",
+      "size": "2170880"
+    },
+    {
+      "path": "/BlueArchive_Data/StreamingAssets/aa/AddressablesLink/link.xml",
+      "hash": "15113516459485741984",
+      "size": "205146"
+    },
+    {
+      "path": "/BlueArchive_Data/StreamingAssets/aa/settings.json",
+      "hash": "69083019075814967",
+      "size": "1840"
+    },
+    {
+      "path": "/BlueArchive_Data/app.info",
+      "hash": "7571020726013533644",
+      "size": "20"
+    },
+    {
+      "path": "/BlueArchive_Data/boot.config",
+      "hash": "17628951619982971939",
+      "size": "110"
+    },
+    {
+      "path": "/BlueArchive_Data/globalgamemanagers",
+      "hash": "1225673550555528012",
+      "size": "1079652"
+    },
+    {
+      "path": "/BlueArchive_Data/globalgamemanagers.assets",
+      "hash": "2371303031913063040",
+      "size": "1965536"
+    },
+    {
+      "path": "/BlueArchive_Data/globalgamemanagers.assets.resS",
+      "hash": "10687470574772393643",
+      "size": "2899456"
+    },
+    {
+      "path": "/BlueArchive_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "hash": "4249299835925308160",
+      "size": "36254152"
+    },
+    {
+      "path": "/BlueArchive_Data/il2cpp_data/Resources/Antlr3.Runtime.dll-resources.dat",
+      "hash": "9413648260544186386",
+      "size": "220"
+    },
+    {
+      "path": "/BlueArchive_Data/il2cpp_data/Resources/Newtonsoft.Json.dll-resources.dat",
+      "hash": "15568500491480090348",
+      "size": "900"
+    },
+    {
+      "path": "/BlueArchive_Data/il2cpp_data/Resources/System.Data.dll-resources.dat",
+      "hash": "10559358303747676151",
+      "size": "93718"
+    },
+    {
+      "path": "/BlueArchive_Data/il2cpp_data/Resources/System.Drawing.dll-resources.dat",
+      "hash": "2145929356499066890",
+      "size": "25453"
+    },
+    {
+      "path": "/BlueArchive_Data/il2cpp_data/Resources/mscorlib.dll-resources.dat",
+      "hash": "13834661772886850043",
+      "size": "337563"
+    },
+    {
+      "path": "/BlueArchive_Data/level0",
+      "hash": "6921590475267081215",
+      "size": "8104"
+    },
+    {
+      "path": "/BlueArchive_Data/level1",
+      "hash": "13821682579011401684",
+      "size": "36192"
+    },
+    {
+      "path": "/BlueArchive_Data/level2",
+      "hash": "1168810606917034569",
+      "size": "4516"
+    },
+    {
+      "path": "/BlueArchive_Data/resources.assets",
+      "hash": "2351564171753133814",
+      "size": "57932000"
+    },
+    {
+      "path": "/BlueArchive_Data/resources.assets.resS",
+      "hash": "17882548249863489388",
+      "size": "116106112"
+    },
+    {
+      "path": "/BlueArchive_Data/resources.resource",
+      "hash": "18084968034782896234",
+      "size": "294176"
+    },
+    {
+      "path": "/BlueArchive_Data/sharedassets0.assets",
+      "hash": "10885695087264365115",
+      "size": "12370"
+    },
+    {
+      "path": "/BlueArchive_Data/sharedassets0.resource",
+      "hash": "11779694149477251936",
+      "size": "30303"
+    },
+    {
+      "path": "/BlueArchive_Data/sharedassets1.assets",
+      "hash": "3764104590335054239",
+      "size": "35612"
+    },
+    {
+      "path": "/BlueArchive_Data/sharedassets1.assets.resS",
+      "hash": "17848289642566718887",
+      "size": "1158800"
+    },
+    {
+      "path": "/BlueArchive_Data/sharedassets2.assets",
+      "hash": "12193993827301986628",
+      "size": "4121"
+    },
+    {
+      "path": "/GameAssembly.dll",
+      "hash": "879039370372014983",
+      "size": "162227712"
+    },
+    {
+      "path": "/UnityCrashHandler64.exe",
+      "hash": "566263709500486277",
+      "size": "1203112"
+    },
+    {
+      "path": "/UnityPlayer.dll",
+      "hash": "7597120714601900124",
+      "size": "29605288"
+    },
+    {
+      "path": "/baselib.dll",
+      "hash": "14021828389202760904",
+      "size": "406448"
+    },
+    {
+      "path": "/run.bat",
+      "hash": "6746493963346709231",
+      "size": "269"
+    },
+    {
+      "path": "/xldr_BlueArchiveOnline_JP_loader_x64.exe",
+      "hash": "14858856991385480709",
+      "size": "12074792"
+    }
+  ]
+}
